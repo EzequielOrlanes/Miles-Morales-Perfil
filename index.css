@@ -63,9 +63,10 @@ input {
 }
 
 button {
-    border-radius: var(--image);
+    size: 29px;
+    border-radius: 50px;
     padding: 5px 10px;
-    border: none;
+    border: 1px;
     background: var(--text);
     color: var(--background);
     font-weight: bold;
