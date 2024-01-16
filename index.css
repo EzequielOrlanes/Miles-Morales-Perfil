@@ -93,7 +93,7 @@ img{
 }
 
 .underline {
-    border-bottom: 2px solid white;
+    border-bottom: 1px solid white;
 }
 
 #miles-logo{
@@ -106,3 +106,12 @@ h1{
     font-size: 70px;
     text-shadow: 10px 3px 6px black;
 }
+
+h1:hover {
+    max-width: auto;
+    font-size: 85px;
+    border-color: blueviolet;
+    border-bottom: 1px solid white;
+}
+
+
